@@ -1,4 +1,6 @@
 <!DOCTYPE html> //you know IDK if this is visible for the user or if it messes with the page rendering, should we delete it?//
+//just adding this to review in a new codespace
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -11,7 +13,7 @@
             padding: 0;
             background-color: #f4f4f4;
         }
-        header {
+        header { // no no no//
             background-color: #333;
             color: #fff;
             padding: 1rem;
